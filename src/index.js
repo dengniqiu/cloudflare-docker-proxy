@@ -6,13 +6,13 @@ addEventListener("fetch", (event) => {
 const dockerHub = "https://registry-1.docker.io";
 
 const routes = {
-  "docker.dengniqiu.com": "https://registry-1.docker.io",
-  "quay.dengniqiu.com": "https://quay.io",
-  "gcr.dengniqiu.com": "https://gcr.io",
-  "k8s-gcr.dengniqiu.com": "https://k8s.gcr.io",
-  "k8s.dengniqiu.com": "https://registry.k8s.io",
-  "ghcr.dengniqiu.com": "https://ghcr.io",
-  "cloudsmith.dengniqiu.com": "https://docker.cloudsmith.io",
+  "docker.dengniqiu.top": "https://registry-1.docker.io",
+  "quay.dengniqiu.top": "https://quay.io",
+  "gcr.dengniqiu.top": "https://gcr.io",
+  "k8s-gcr.dengniqiu.top": "https://k8s.gcr.io",
+  "k8s.dengniqiu.top": "https://registry.k8s.io",
+  "ghcr.dengniqiu.top": "https://ghcr.io",
+  "cloudsmith.dengniqiu.top": "https://docker.cloudsmith.io",
 };
 
   // staging
